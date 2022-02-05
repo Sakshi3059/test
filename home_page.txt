@@ -3,5 +3,6 @@
 <a href="home.html"  img src="home.jpg" alt="HOME" />
 <a href="about.html" img src="abt.jfif" alt="ABOUT" />
 <a href="contact.html"  img src="" alt="CONTACT" />
+<a href="contact.html"  img src="" alt="CONTACT" />
 </body>
 </html>
